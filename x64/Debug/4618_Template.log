@@ -1,0 +1,40 @@
+﻿  stdafx.cpp
+  server.cpp
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\server.cpp(112): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\server.cpp(112): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\server.cpp(149): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\server.cpp(223): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\server.cpp(228): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\server.cpp(239): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Serial.cpp
+  CSketch.cpp
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\csketch.cpp(15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\csketch.cpp(16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CPong.cpp
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\cpong.cpp(36): warning C4244: 'initializing': conversion from 'int64' to 'double', possible loss of data
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\cpong.cpp(41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\cpong.cpp(134): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\cpong.cpp(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Client.cpp
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\client.cpp(42): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock2.h(1830): note: see declaration of 'inet_addr'
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\client.cpp(16): warning C4101: 'client_addr': unreferenced local variable
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\client.cpp(60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  CControl.cpp
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\ccontrol.cpp(41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\ccontrol.cpp(46): warning C4244: 'initializing': conversion from 'int64' to 'double', possible loss of data
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\ccontrol.cpp(65): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\ccontrol.cpp(80): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\ccontrol.cpp(85): warning C4244: 'initializing': conversion from 'int64' to 'double', possible loss of data
+  CBase4618.cpp
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\cbase4618.cpp(37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  4618_Template.cpp
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\4618_template.cpp(124): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\4618_template.cpp(50): warning C4101: 'command': unreferenced local variable
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\4618_template.cpp(137): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\4618_template.cpp(141): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\4618_template.cpp(144): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 5\back up\copy lab 4\template-master\4618_template.cpp(146): warning C4309: '=': truncation of constant value
+  Generating Code...
+  4618_Template.vcxproj -> C:\Users\Jasdeep\Desktop\BCIT\Object Oriented Programming Design\Labs\Lab 5\Back up\Copy lab 4\Template-master\x64\Debug\4618_Template.exe
